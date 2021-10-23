@@ -1572,3 +1572,8 @@ section {
   text-align: center;
   margin-bottom: 20px;
 }
+
+.donors {
+  margin: 0 auto;
+  width: 80%;
+}
