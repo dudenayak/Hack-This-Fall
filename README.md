@@ -43,13 +43,13 @@ Due to massive commercialization, we are somewhere neglecting our mother Earth. 
 Establishing SellOTree's plantation drives and starting with the collaboration for generating nurseries. Selling biodegradable products in future is also in scope.
 
 ## 👇 Download Files
-* Go to our GitHub repository: https://github.com/anushkajain6459/SellOTrees
+* Go to our GitHub repository: https://github.com/dudenayak/Hack-This-Fall
 * Download Zip or clone repo
 * Then open the folder in your IDE 
 * Run index.html file
 
 ## Website
-* Link: https://anushkajain6459.github.io/SellOTrees/
+* Link: https://dudenayak.github.io/Hack-This-Fall/
 
 
 
